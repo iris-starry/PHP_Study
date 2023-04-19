@@ -1,0 +1,3 @@
+<?PHP
+    prin "Hello PHP"
+?>
